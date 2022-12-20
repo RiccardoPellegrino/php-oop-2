@@ -1,0 +1,19 @@
+img {
+    max-width: 100%;
+}
+h1{
+    font-size:50px;
+    font-weight: bold;
+}
+.icon_dog {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+}
+.icon_cat {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    width: 35px;
+}
